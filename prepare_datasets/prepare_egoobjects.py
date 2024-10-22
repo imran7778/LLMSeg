@@ -8,8 +8,8 @@ from pycocotools import mask as mask_utils
 from segment_anything import sam_model_registry, SamAutomaticMaskGenerator
 from tqdm import tqdm
 
-dataset_root = "/home/leikel/junchi/lisa_dataset/ego_objects"
-output_root = "/home/leikel/junchi/lisa_dataset/ego_objects"
+dataset_root = "/kaggle/working/LLMSeg"
+output_root = "/kaggle/working/LLMSeg"
 sam_checkpoint = "/home/leikel/junchi/pretrained_weights/SAM/sam_vit_h_4b8939.pth"
 
 
