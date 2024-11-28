@@ -10,7 +10,7 @@ from segment_anything import sam_model_registry, SamAutomaticMaskGenerator
 
 dataset_root = "/kaggle/working/LLMSeg/dataset/reason_seg/ReasonSeg/"
 output_root = "/kaggle/working/LLMSeg/process_dataset/reason_seg/ReasonSeg/"
-sam_checkpoint = "/cluster/home/leikel/junchi/segment-anything/checkpoints/sam_vit_h_4b8939.pth"
+sam_checkpoint = "/kaggle/working/LLMSeg/checkpoints/sam_vit_h_4b8939.pth"
 
 
 # test set not available for ReasonSeg
