@@ -1,0 +1,59 @@
+{
+  "text": [
+    "During the move, what object can be used to store and transport various sundries and small household items, which is sturdy and relatively easy to carry?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0684_00_0.jpg",
+      "points": [
+        [
+          163.6701030927835,
+          65.72164948453609
+        ],
+        [
+          168.3896103896104,
+          207.27272727272728
+        ],
+        [
+          201.37662337662337,
+          239.0
+        ],
+        [
+          224.75324675324674,
+          238.96103896103895
+        ],
+        [
+          263.97402597402595,
+          205.19480519480518
+        ],
+        [
+          319.0,
+          59.54335260115607
+        ],
+        [
+          319.0,
+          54.630057803468205
+        ],
+        [
+          248.07514450867052,
+          22.838150289017342
+        ],
+        [
+          242.87283236994222,
+          24.283236994219656
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

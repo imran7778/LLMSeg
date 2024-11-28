@@ -1,0 +1,143 @@
+{
+  "text": [
+    "Each vehicle on the road is identified by a unique combination of numbers and letters displayed on a small metal plate. What component of the car in the picture serves this purpose?",
+    "Each vehicle on the road is identified by a unique combination of numbers and letters that are displayed on a metal plate. Please locate the component of the car from the picture that serves this purpose.",
+    "What component of the car in the picture is responsible for displaying a unique combination of letters and numbers that identifies the vehicle while on the road?",
+    "The component of the car in the picture that is responsible for identifying each vehicle on the road through a unique combination of numbers and letters displayed on a small metal plate.",
+    "To identify a vehicle on the road, a unique combination of characters is assigned and displayed on a small metal plate. Based on the image, what part of the vehicle serves this purpose?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "8101546296_d84d0a768b_o.jpg",
+      "points": [
+        [
+          1488.6477462437394,
+          1332.3873121869783
+        ],
+        [
+          1782.303839732888,
+          1365.2754590984975
+        ],
+        [
+          1787.813021702838,
+          1367.6126878130217
+        ],
+        [
+          1792.821368948247,
+          1370.9515859766277
+        ],
+        [
+          1796.4941569282137,
+          1374.7913188647747
+        ],
+        [
+          1798.9749430523918,
+          1379.612756264237
+        ],
+        [
+          1800.4555808656037,
+          1385.6492027334853
+        ],
+        [
+          1800.3416856492029,
+          1390.7744874715263
+        ],
+        [
+          1774.8549323017407,
+          1580.8510638297873
+        ],
+        [
+          1771.5667311411992,
+          1589.1682785299806
+        ],
+        [
+          1768.0851063829787,
+          1594.3907156673115
+        ],
+        [
+          1762.2823984526112,
+          1599.6131528046421
+        ],
+        [
+          1757.0599613152806,
+          1601.9342359767893
+        ],
+        [
+          1751.4506769825919,
+          1602.321083172147
+        ],
+        [
+          1743.855693348365,
+          1601.8038331454338
+        ],
+        [
+          1353.0,
+          1552.1
+        ],
+        [
+          1349.142857142857,
+          1549.857142857143
+        ],
+        [
+          1345.2,
+          1546.9
+        ],
+        [
+          1342.3,
+          1543.3
+        ],
+        [
+          1339.857142857143,
+          1538.4285714285713
+        ],
+        [
+          1339.142857142857,
+          1535.5714285714287
+        ],
+        [
+          1339.0,
+          1531.7142857142858
+        ],
+        [
+          1364.5714285714287,
+          1339.2857142857142
+        ],
+        [
+          1366.7142857142858,
+          1334.4285714285713
+        ],
+        [
+          1370.2857142857142,
+          1328.7142857142858
+        ],
+        [
+          1376.2857142857142,
+          1324.4285714285713
+        ],
+        [
+          1381.4285714285713,
+          1321.7142857142858
+        ],
+        [
+          1386.7142857142858,
+          1321.2857142857142
+        ],
+        [
+          1394.4285714285713,
+          1321.857142857143
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

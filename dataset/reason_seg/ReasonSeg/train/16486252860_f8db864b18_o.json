@@ -1,0 +1,172 @@
+{
+  "text": [
+    "Cats are known for their agility and their ability to climb and explore different heights. What object in the picture can provide a vertical surface for a cat to climb on?",
+    "What object in the picture can provide a vertical climbing surface for a cat to explore and climb on, given that cats are known for their agility and love for climbing?",
+    "What object in the picture could serve as a vertical surface for a cat to climb and explore different heights?",
+    "What object in the picture could offer a vertical surface for a cat to climb?",
+    "What is the object in the picture that can provide a vertical surface for a cat to climb on, given that cats are known for their agility and their ability to scale various heights?",
+    "What object in the picture could provide a vertical surface for a cat to climb on, given their agility and inclination towards exploring various heights?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "16486252860_f8db864b18_o.jpg",
+      "points": [
+        [
+          2040.7894736842104,
+          2854.8245614035086
+        ],
+        [
+          2054.8245614035086,
+          2852.6315789473683
+        ],
+        [
+          2064.0,
+          2859.3333333333335
+        ],
+        [
+          2083.771929824561,
+          2887.7192982456136
+        ],
+        [
+          2100.0,
+          2899.3333333333335
+        ],
+        [
+          2130.6666666666665,
+          2902.0
+        ],
+        [
+          2196.6666666666665,
+          2898.6666666666665
+        ],
+        [
+          2284.0,
+          2888.6666666666665
+        ],
+        [
+          2324.6666666666665,
+          2872.0
+        ],
+        [
+          2350.6666666666665,
+          2855.3333333333335
+        ],
+        [
+          2362.6666666666665,
+          2855.3333333333335
+        ],
+        [
+          2375.3333333333335,
+          2874.0
+        ],
+        [
+          2394.6666666666665,
+          2869.3333333333335
+        ],
+        [
+          2431.3333333333335,
+          2854.0
+        ],
+        [
+          2455.5102040816323,
+          2834.6938775510203
+        ],
+        [
+          2478.7755102040815,
+          2815.5102040816323
+        ],
+        [
+          2490.204081632653,
+          2802.0408163265306
+        ],
+        [
+          2497.142857142857,
+          2780.0
+        ],
+        [
+          2501.224489795918,
+          2762.8571428571427
+        ],
+        [
+          2501.875,
+          2366.875
+        ],
+        [
+          2503.846153846154,
+          1039.423076923077
+        ],
+        [
+          2503.846153846154,
+          433.65384615384613
+        ],
+        [
+          2508.095238095238,
+          0.0
+        ],
+        [
+          2017.142857142857,
+          0.0
+        ],
+        [
+          2015.5844155844156,
+          338.961038961039
+        ],
+        [
+          2020.1298701298701,
+          838.961038961039
+        ],
+        [
+          2021.4285714285713,
+          1152.5974025974026
+        ],
+        [
+          2023.3766233766232,
+          1558.4415584415583
+        ],
+        [
+          2027.922077922078,
+          1952.5974025974026
+        ],
+        [
+          2030.5194805194806,
+          2382.4675324675322
+        ],
+        [
+          2032.7272727272725,
+          2743.6363636363635
+        ],
+        [
+          2032.7272727272725,
+          2773.9393939393935
+        ],
+        [
+          2032.894736842105,
+          2786.8421052631575
+        ],
+        [
+          2034.6491228070174,
+          2796.491228070175
+        ],
+        [
+          2036.8421052631577,
+          2815.3508771929824
+        ],
+        [
+          2038.59649122807,
+          2840.3508771929824
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

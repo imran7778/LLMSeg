@@ -1,0 +1,131 @@
+{
+  "text": [
+    "When watching live performances, musicians often wear something formal around their neck to match the atmosphere of the event. What part of the person in the picture might be wearing this formal accessory?",
+    "When watching live performances, musicians often wear a formal accessory around their neck in order to match the atmosphere of the event. Based on the image, which part of the person might be wearing such an accessory?",
+    "When attending a live performance, musicians frequently wear a formal accessory around their neck to complement the event's ambiance. What area of the individual in the picture might be wearing this type of formal accessory?",
+    "At live performances, musicians commonly wear a formal accessory around their neck to match the atmosphere of the event. Which part of the person in the picture might be wearing such a formal accessory?",
+    "During live performances, musicians often wear something formal around their neck to match the event's atmosphere. Based on the picture, which part of the person would most likely be wearing this formal accessory?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "8230371031_e870bd25f3_o.jpg",
+      "points": [
+        [
+          795.3703703703703,
+          529.2181069958848
+        ],
+        [
+          796.069182389937,
+          505.97484276729557
+        ],
+        [
+          796.0,
+          492.2
+        ],
+        [
+          796.1,
+          486.2
+        ],
+        [
+          796.3,
+          480.5
+        ],
+        [
+          796.8,
+          472.5
+        ],
+        [
+          797.0,
+          460.3
+        ],
+        [
+          795.8,
+          451.2
+        ],
+        [
+          794.6,
+          440.2
+        ],
+        [
+          778.0,
+          443.7
+        ],
+        [
+          777.4,
+          452.0
+        ],
+        [
+          774.6,
+          469.2
+        ],
+        [
+          772.4,
+          483.1
+        ],
+        [
+          771.0,
+          497.8
+        ],
+        [
+          770.1,
+          508.8
+        ],
+        [
+          768.9,
+          523.0
+        ],
+        [
+          765.7407407407406,
+          556.1728395061727
+        ],
+        [
+          762.7572016460905,
+          586.522633744856
+        ],
+        [
+          762.3456790123456,
+          590.2263374485597
+        ],
+        [
+          773.8683127572016,
+          587.551440329218
+        ],
+        [
+          783.8477366255144,
+          586.4197530864197
+        ],
+        [
+          791.4609053497942,
+          586.4197530864197
+        ],
+        [
+          794.3415637860081,
+          586.9341563786007
+        ],
+        [
+          794.1358024691358,
+          560.6995884773662
+        ],
+        [
+          794.3415637860081,
+          547.119341563786
+        ],
+        [
+          795.3703703703703,
+          535.0823045267489
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

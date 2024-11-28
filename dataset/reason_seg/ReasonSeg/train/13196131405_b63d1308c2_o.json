@@ -1,0 +1,163 @@
+{
+  "text": [
+    "During track and field events, athletes may need to overcome barriers. What object in the picture is typically used in the hurdling event?",
+    "In a track and field event, which object is commonly utilized during the hurdling event, as athletes must overcome various barriers to compete?",
+    "During track and field events, athletes often encounter obstacles in their path that they need to overcome, what in the picture is the typical equipment used for hurdling events?",
+    "What is the object that is typically used during the hurdling event in track and field?",
+    "In the track and field events, athletes may need to overcome barriers, such as in the hurdling event. Which item demonstrated in the picture is typically used in this event?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "13196131405_b63d1308c2_o.jpg",
+      "points": [
+        [
+          1857.5221238938052,
+          1750.442477876106
+        ],
+        [
+          1610.6194690265486,
+          1758.4070796460176
+        ],
+        [
+          1476.1061946902653,
+          1763.7168141592917
+        ],
+        [
+          1240.6593406593406,
+          1767.5824175824175
+        ],
+        [
+          714.9068322981366,
+          1767.7018633540372
+        ],
+        [
+          441.6149068322981,
+          1764.5962732919254
+        ],
+        [
+          89.0,
+          1758.0
+        ],
+        [
+          37.56613756613756,
+          1758.201058201058
+        ],
+        [
+          0.0,
+          1756.6137566137565
+        ],
+        [
+          0.0,
+          1833.8624338624338
+        ],
+        [
+          252.91005291005288,
+          1836.5079365079364
+        ],
+        [
+          641.6149068322981,
+          1836.0248447204967
+        ],
+        [
+          1169.1588785046729,
+          1832.7102803738317
+        ],
+        [
+          1550.0,
+          1827.0
+        ],
+        [
+          1951.0,
+          1810.0
+        ],
+        [
+          2559.090909090909,
+          1770.7792207792209
+        ],
+        [
+          2575.974025974026,
+          1777.2727272727273
+        ],
+        [
+          2623.3766233766232,
+          1772.7272727272727
+        ],
+        [
+          2636.574074074074,
+          1765.7407407407406
+        ],
+        [
+          2644.4444444444443,
+          1766.2037037037037
+        ],
+        [
+          2652.777777777778,
+          1770.8333333333333
+        ],
+        [
+          2658.796296296296,
+          1768.5185185185185
+        ],
+        [
+          2671.296296296296,
+          1759.2592592592591
+        ],
+        [
+          2677.777777777778,
+          1746.031746031746
+        ],
+        [
+          2677.314814814815,
+          1723.148148148148
+        ],
+        [
+          2667.1296296296296,
+          1708.796296296296
+        ],
+        [
+          2652.314814814815,
+          1701.8518518518517
+        ],
+        [
+          2644.0,
+          1696.0
+        ],
+        [
+          2630.555555555555,
+          1695.3703703703702
+        ],
+        [
+          2620.833333333333,
+          1695.8333333333333
+        ],
+        [
+          2545.37037037037,
+          1704.1666666666665
+        ],
+        [
+          2537.037037037037,
+          1707.4074074074074
+        ],
+        [
+          2530.0925925925926,
+          1709.7222222222222
+        ],
+        [
+          2216.1016949152545,
+          1730.5084745762713
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

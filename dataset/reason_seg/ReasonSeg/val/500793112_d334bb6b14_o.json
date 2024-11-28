@@ -1,0 +1,60 @@
+{
+  "text": [
+    "In a zoo, there are separate areas designated for different animals. What structure in the picture is used to confine and display animals?",
+    "Zoos typically feature designated areas for different species of animals. Which structure in the picture is utilized for confining and displaying animals?",
+    "At a zoo, animals are typically separated into different areas for display. What is the term for the structure or enclosure used to confine and display these animals?",
+    "At a zoo, the animals are typically confined to particular areas for exhibition. In the picture, what structure is primarily utilized to confine and display animals?",
+    "In a zoo, what structure would be employed to confine and exhibit animals, based on the image provided?",
+    "At a zoo, what structure can be used to confine and display animals in separate areas?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "500793112_d334bb6b14_o.jpg",
+      "points": [
+        [
+          430.0851063829787,
+          1928.2978723404253
+        ],
+        [
+          449.23404255319144,
+          1843.191489361702
+        ],
+        [
+          459.8723404255319,
+          1619.787234042553
+        ],
+        [
+          444.9787234042553,
+          1024.0425531914893
+        ],
+        [
+          449.23404255319144,
+          368.7234042553191
+        ],
+        [
+          453.4893617021276,
+          4.8936170212765955
+        ],
+        [
+          2.425531914893618,
+          0.0
+        ],
+        [
+          0.0,
+          1936.8085106382978
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

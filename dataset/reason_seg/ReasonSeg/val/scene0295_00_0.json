@@ -1,0 +1,55 @@
+{
+  "text": [
+    "When the weather is very cold outside, what equipment do we need to use to increase the indoor temperature in the room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0295_00_0.jpg",
+      "points": [
+        [
+          56.18181818181818,
+          130.64935064935065
+        ],
+        [
+          57.22077922077922,
+          135.06493506493507
+        ],
+        [
+          75.66233766233766,
+          189.35064935064935
+        ],
+        [
+          122.93506493506493,
+          212.2077922077922
+        ],
+        [
+          193.84415584415584,
+          122.07792207792208
+        ],
+        [
+          192.8051948051948,
+          69.87012987012987
+        ],
+        [
+          178.5194805194805,
+          43.63636363636363
+        ],
+        [
+          173.06493506493507,
+          41.81818181818182
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

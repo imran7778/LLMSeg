@@ -1,0 +1,143 @@
+{
+  "text": [
+    "During winter, vehicles are often covered with a layer of snow. What part of the vehicle in the picture is usually used to display the identification number of the vehicle?",
+    "During winter, vehicles are often covered with a thick layer of snow. What part of a vehicle in the picture is typically used to display its identification number?",
+    "In winter, vehicles are often covered with a layer of snow. What part of this vehicle in the picture is used to display the identification number of the vehicle?",
+    "During the winter season, vehicles are frequently covered in snow. Which area of the vehicle shown in the picture is typically used to display the vehicle's identification number or plate?",
+    "In many instances during winter, vehicles can become covered with snow. What part of the vehicle in the picture is typically used to display its identification number?",
+    "During winter, vehicles are often covered with a layer of snow. What is the part of the vehicle in the picture that is generally used to display the vehicle's identification number?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "8241999753_e35c0bd6f6_o.jpg",
+      "points": [
+        [
+          3264.0102827763494,
+          1888.9460154241644
+        ],
+        [
+          3434.324324324324,
+          1860.0
+        ],
+        [
+          3530.330882352941,
+          1843.0147058823527
+        ],
+        [
+          3534.5588235294117,
+          1843.0147058823527
+        ],
+        [
+          3537.316176470588,
+          1844.4852941176468
+        ],
+        [
+          3541.360294117647,
+          1847.4264705882351
+        ],
+        [
+          3549.2647058823527,
+          1964.705882352941
+        ],
+        [
+          3547.610294117647,
+          1970.0367647058822
+        ],
+        [
+          3545.036764705882,
+          1971.5073529411764
+        ],
+        [
+          3423.529411764706,
+          1997.6102941176468
+        ],
+        [
+          3151.6690856313494,
+          2052.830188679245
+        ],
+        [
+          3144.9927431059505,
+          2052.3947750362845
+        ],
+        [
+          3142.089985486212,
+          2051.0885341074018
+        ],
+        [
+          3139.0420899854857,
+          2048.476052249637
+        ],
+        [
+          3137.7358490566035,
+          2041.9448476052248
+        ],
+        [
+          3129.317851959361,
+          1916.4005805515237
+        ],
+        [
+          3130.6240928882435,
+          1911.9013062409288
+        ],
+        [
+          3132.8011611030474,
+          1909.4339622641508
+        ],
+        [
+          3140.2031930333815,
+          1907.8374455732944
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "8241999753_e35c0bd6f6_o.jpg",
+      "points": [
+        [
+          706.3829787234042,
+          1175.5319148936169
+        ],
+        [
+          756.9148936170212,
+          1177.127659574468
+        ],
+        [
+          745.7446808510638,
+          1210.6382978723404
+        ],
+        [
+          705.3191489361702,
+          1209.0425531914893
+        ],
+        [
+          697.8723404255319,
+          1203.191489361702
+        ],
+        [
+          698.4042553191489,
+          1179.255319148936
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

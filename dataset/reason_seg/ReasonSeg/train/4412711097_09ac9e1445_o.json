@@ -1,0 +1,124 @@
+{
+  "text": [
+    "Dogs often enjoy playing with toys, especially those that they can interact with using their paws. What in the picture could the dog use its paws to interact with and play?",
+    "What in the picture could dogs use their paws to interact with and play, especially toys that they enjoy?",
+    "What items in the picture might a dog utilize its paws to play with and interact with, given that dogs often enjoy playing with toys in this manner?",
+    "Dogs often enjoy playing with toys, particularly those that they can engage with utilizing their paws. What item in the picture might the dog use its paws to interact with and play?",
+    "What might a dog use its paws to interact with and play, based on the objects in the picture?",
+    "What in the picture could be utilized by a dog to play and interact using its paws?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "4412711097_09ac9e1445_o.jpg",
+      "points": [
+        [
+          93.72549019607843,
+          187.05882352941174
+        ],
+        [
+          88.8235294117647,
+          186.4705882352941
+        ],
+        [
+          83.33333333333333,
+          186.8627450980392
+        ],
+        [
+          77.45098039215685,
+          188.8235294117647
+        ],
+        [
+          70.98039215686273,
+          191.96078431372547
+        ],
+        [
+          66.47058823529412,
+          195.6862745098039
+        ],
+        [
+          62.54901960784313,
+          199.80392156862743
+        ],
+        [
+          59.01960784313725,
+          205.2941176470588
+        ],
+        [
+          56.86274509803921,
+          210.98039215686273
+        ],
+        [
+          55.29411764705882,
+          218.43137254901958
+        ],
+        [
+          55.49019607843137,
+          222.156862745098
+        ],
+        [
+          58.0392156862745,
+          226.078431372549
+        ],
+        [
+          71.17647058823529,
+          239.0
+        ],
+        [
+          109.01960784313724,
+          239.0
+        ],
+        [
+          112.35294117647058,
+          235.88235294117644
+        ],
+        [
+          114.50980392156862,
+          233.13725490196077
+        ],
+        [
+          116.4705882352941,
+          229.99999999999997
+        ],
+        [
+          117.6470588235294,
+          226.4705882352941
+        ],
+        [
+          118.4313725490196,
+          221.56862745098036
+        ],
+        [
+          118.4313725490196,
+          216.8627450980392
+        ],
+        [
+          117.84313725490195,
+          213.92156862745097
+        ],
+        [
+          116.078431372549,
+          208.8235294117647
+        ],
+        [
+          104.50980392156862,
+          196.66666666666666
+        ],
+        [
+          95.68627450980391,
+          187.84313725490193
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

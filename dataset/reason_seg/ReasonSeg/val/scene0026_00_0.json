@@ -1,0 +1,47 @@
+{
+  "text": [
+    "What object is used to cover the entrance of the bathroom and ensure privacy?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "scene0026_00_0.jpg",
+      "points": [
+        [
+          3.2076502732240435,
+          1.3770491803278686
+        ],
+        [
+          58.94535519125682,
+          228.9726775956284
+        ],
+        [
+          64.68306010928961,
+          229.79234972677594
+        ],
+        [
+          115.22950819672131,
+          169.6830601092896
+        ],
+        [
+          128.0710382513661,
+          154.10928961748633
+        ],
+        [
+          120.69398907103826,
+          0.8306010928961749
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

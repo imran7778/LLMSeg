@@ -1,0 +1,95 @@
+{
+  "text": [
+    "Traffic signs play a crucial role in ensuring road safety and guiding drivers. What object in the picture serves as a visual cue to drivers, indicating that they need to stop?",
+    "In ensuring road safety and alerting drivers, traffic signs play a vital role. Which object in the picture serves as a visual cue to drivers, indicating that they should come to a halt?",
+    "Traffic signs play an essential role in ensuring road safety and guiding drivers. What object in the picture signals drivers to stop, serving as a visual cue?",
+    "What is the object in the picture that serves as a visual cue to drivers, signifying that they need to come to a stop?",
+    "In promoting road safety and guiding motorists, traffic signs play a critical role. Based on the picture, what particular object serves as a visual cue to drivers, indicating that they need to come to a stop?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "16861858899_85f62c052e_o.jpg",
+      "points": [
+        [
+          3078.0,
+          514.6666666666666
+        ],
+        [
+          3700.7692307692305,
+          1021.5384615384615
+        ],
+        [
+          3716.153846153846,
+          2149.230769230769
+        ],
+        [
+          3277.6923076923076,
+          2520.7692307692305
+        ],
+        [
+          2980.4597701149423,
+          2764.367816091954
+        ],
+        [
+          2174.712643678161,
+          2602.2988505747126
+        ],
+        [
+          2152.2988505747126,
+          2568.9655172413795
+        ],
+        [
+          1981.6091954022988,
+          2347.1264367816093
+        ],
+        [
+          1712.0689655172414,
+          1987.9310344827586
+        ],
+        [
+          1701.7241379310344,
+          1736.2068965517242
+        ],
+        [
+          1677.3333333333333,
+          1226.3333333333333
+        ],
+        [
+          1681.0,
+          1217.3333333333333
+        ],
+        [
+          1864.3333333333333,
+          936.3333333333334
+        ],
+        [
+          2101.6666666666665,
+          576.3333333333334
+        ],
+        [
+          2390.6666666666665,
+          511.0
+        ],
+        [
+          2922.0,
+          391.3333333333333
+        ],
+        [
+          2928.0,
+          392.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

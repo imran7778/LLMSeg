@@ -1,0 +1,163 @@
+{
+  "text": [
+    "In a live music performance, what item does the performer typically use to support themselves while playing the guitar or singing?",
+    "What item do performers typically use to support themselves while playing the guitar or singing during a live music performance?",
+    "During a live music performance, what item is commonly used by the performer to support themselves while playing the guitar or singing?",
+    "When performing live music, what item is generally used by the performer to support themselves when playing a guitar or singing?",
+    "What item does the performer typically use to support themselves while playing the guitar or singing in a live music performance?",
+    "What object do musicians typically utilize to support themselves while playing the guitar or singing in a live music performance?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "457354973_287344f04b_o.jpg",
+      "points": [
+        [
+          1291.764705882353,
+          2769.4117647058824
+        ],
+        [
+          1277.0588235294117,
+          2743.529411764706
+        ],
+        [
+          1258.235294117647,
+          2711.764705882353
+        ],
+        [
+          1244.1176470588236,
+          2697.0588235294117
+        ],
+        [
+          1232.3529411764707,
+          2684.1176470588234
+        ],
+        [
+          1221.764705882353,
+          2665.8823529411766
+        ],
+        [
+          1213.5294117647059,
+          2644.1176470588234
+        ],
+        [
+          1205.8823529411766,
+          2623.529411764706
+        ],
+        [
+          1197.0588235294117,
+          2608.2352941176473
+        ],
+        [
+          1175.2941176470588,
+          2602.3529411764707
+        ],
+        [
+          1137.6470588235295,
+          2595.294117647059
+        ],
+        [
+          1098.235294117647,
+          2592.3529411764707
+        ],
+        [
+          1070.5882352941176,
+          2591.1764705882356
+        ],
+        [
+          1044.7058823529412,
+          2592.3529411764707
+        ],
+        [
+          1020.5882352941177,
+          2593.529411764706
+        ],
+        [
+          1002.3529411764706,
+          2594.1176470588234
+        ],
+        [
+          991.1764705882354,
+          2595.294117647059
+        ],
+        [
+          978.2352941176471,
+          2747.0588235294117
+        ],
+        [
+          1052.9411764705883,
+          2754.7058823529414
+        ],
+        [
+          1035.2941176470588,
+          2980.5882352941176
+        ],
+        [
+          1015.8823529411765,
+          3266.470588235294
+        ],
+        [
+          1128.8235294117646,
+          3267.0
+        ],
+        [
+          1152.9411764705883,
+          2927.6470588235293
+        ],
+        [
+          1168.235294117647,
+          2762.9411764705883
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "457354973_287344f04b_o.jpg",
+      "points": [
+        [
+          638.8888888888889,
+          3177.777777777778
+        ],
+        [
+          633.3333333333334,
+          3180.5555555555557
+        ],
+        [
+          627.7777777777778,
+          3209.722222222222
+        ],
+        [
+          622.2222222222223,
+          3267.0
+        ],
+        [
+          672.2222222222223,
+          3267.0
+        ],
+        [
+          650.0,
+          3188.888888888889
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

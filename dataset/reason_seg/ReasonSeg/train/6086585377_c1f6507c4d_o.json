@@ -1,0 +1,182 @@
+{
+  "text": [
+    "When searching for a specific notice or announcement, what object in the picture might have relevant information displayed on it?",
+    "When one is searching for a particular notice or announcement, which object found in the picture is most likely to contain relevant displayed information?",
+    "When searching for a specific notice or announcement, which object in the picture could potentially contain relevant information that is displayed on it?",
+    "When looking for a specific notice or announcement, what object in the picture might shed light on the situation and show relevant information?",
+    "When searching for a specific notice or announcement, what object present in the picture might provide the information you need?",
+    "While searching for a particular notice or announcement that is relevant, which object in the picture might display such information?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6086585377_c1f6507c4d_o.jpg",
+      "points": [
+        [
+          5293.150684931507,
+          972.6027397260274
+        ],
+        [
+          4637.007874015748,
+          1014.9606299212599
+        ],
+        [
+          4626.771653543307,
+          1018.8976377952756
+        ],
+        [
+          4624.0,
+          1027.0
+        ],
+        [
+          4584.0,
+          1902.0
+        ],
+        [
+          4587.0,
+          1910.0
+        ],
+        [
+          4597.0,
+          1914.0
+        ],
+        [
+          5219.0,
+          2001.0
+        ],
+        [
+          5225.0,
+          1996.0
+        ],
+        [
+          5298.0,
+          981.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6086585377_c1f6507c4d_o.jpg",
+      "points": [
+        [
+          0.0,
+          2135.0
+        ],
+        [
+          74.71264367816092,
+          2118.390804597701
+        ],
+        [
+          134.48275862068965,
+          2509.1954022988507
+        ],
+        [
+          669.0,
+          2364.0
+        ],
+        [
+          675.0,
+          2358.0
+        ],
+        [
+          627.5862068965517,
+          2013.7931034482758
+        ],
+        [
+          777.0114942528736,
+          1988.5057471264367
+        ],
+        [
+          681.6091954022988,
+          1066.6666666666667
+        ],
+        [
+          674.7126436781609,
+          1054.0229885057472
+        ],
+        [
+          0.0,
+          1033.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6086585377_c1f6507c4d_o.jpg",
+      "points": [
+        [
+          4498.0,
+          2915.0
+        ],
+        [
+          4514.285714285715,
+          2923.809523809524
+        ],
+        [
+          5168.0,
+          3169.0
+        ],
+        [
+          5173.0,
+          3161.0
+        ],
+        [
+          5176.0,
+          3141.0
+        ],
+        [
+          5246.031746031746,
+          2092.063492063492
+        ],
+        [
+          5233.333333333333,
+          2082.5396825396824
+        ],
+        [
+          4531.746031746032,
+          1977.7777777777778
+        ],
+        [
+          4526.984126984127,
+          1990.4761904761904
+        ],
+        [
+          4492.063492063492,
+          2825.3968253968255
+        ],
+        [
+          4496.0,
+          2910.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

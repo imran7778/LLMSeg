@@ -1,0 +1,104 @@
+{
+  "text": [
+    "Playing musical instruments requires the performer to press the strings against a certain part of the instrument to produce different pitches. What area in the picture could be used for this purpose?",
+    "When playing musical instruments, the performer needs to press the strings against a specific area of the instrument to generate various pitches. What region in the picture may be utilized for this purpose?",
+    "Playing musical instruments often requires the player to use specific parts of the instrument to produce different pitches. What area in the picture could be utilized for this purpose?",
+    "When playing a musical instrument, the performer is required to press the strings against a certain part of the instrument to produce different notes. What area in the picture might be utilized for this purpose?",
+    "When playing musical instruments, performers must often press the strings against a specific part of the instrument to generate various pitches. What region of the picture might be utilized for this purpose?",
+    "In order to produce different pitches, musicians must press the strings against a specific part of their instrument. What part of the picture could serve this purpose?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "177668730_b8382a685b_o.jpg",
+      "points": [
+        [
+          87.8,
+          337.9
+        ],
+        [
+          125.3,
+          337.9
+        ],
+        [
+          127.1,
+          337.0
+        ],
+        [
+          126.61955241460541,
+          283.74558303886926
+        ],
+        [
+          126.03062426383981,
+          252.414605418139
+        ],
+        [
+          125.8,
+          232.4
+        ],
+        [
+          125.91283863368669,
+          210.36513545347466
+        ],
+        [
+          125.6,
+          184.0
+        ],
+        [
+          124.8,
+          140.5
+        ],
+        [
+          124.4,
+          120.9
+        ],
+        [
+          92.2,
+          120.2
+        ],
+        [
+          90.0,
+          151.3
+        ],
+        [
+          86.49658935879945,
+          222.64665757162345
+        ],
+        [
+          84.58663028649386,
+          249.11323328785812
+        ],
+        [
+          83.0,
+          269.8
+        ],
+        [
+          81.2,
+          301.9
+        ],
+        [
+          80.0,
+          336.1
+        ],
+        [
+          80.5,
+          337.2
+        ],
+        [
+          81.2,
+          337.4
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

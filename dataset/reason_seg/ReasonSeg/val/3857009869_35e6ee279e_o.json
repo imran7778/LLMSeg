@@ -1,0 +1,115 @@
+{
+  "text": [
+    "As a speaker, relying solely on verbal explanations may not effectively convey the intended message to the audience. What area of the picture should be used to project the key content and make it more understandable for the audience during the presentation?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3857009869_35e6ee279e_o.jpg",
+      "points": [
+        [
+          2250.0,
+          136.0
+        ],
+        [
+          2249.0,
+          148.0
+        ],
+        [
+          2231.0,
+          528.0
+        ],
+        [
+          2230.0,
+          529.0
+        ],
+        [
+          2182.0,
+          1513.0
+        ],
+        [
+          2181.0,
+          1524.0
+        ],
+        [
+          2179.0,
+          1534.0
+        ],
+        [
+          2179.0,
+          1547.0
+        ],
+        [
+          2186.0,
+          1553.0
+        ],
+        [
+          2195.0,
+          1557.0
+        ],
+        [
+          2203.0,
+          1558.0
+        ],
+        [
+          2227.0,
+          1559.0
+        ],
+        [
+          2905.0,
+          1573.0
+        ],
+        [
+          2906.0,
+          1574.0
+        ],
+        [
+          4265.0,
+          1604.0
+        ],
+        [
+          4287.0,
+          1604.0
+        ],
+        [
+          4287.0,
+          0.0
+        ],
+        [
+          2845.0,
+          0.0
+        ],
+        [
+          2272.0,
+          122.0
+        ],
+        [
+          2269.0,
+          123.0
+        ],
+        [
+          2261.0,
+          127.0
+        ],
+        [
+          2259.0,
+          129.0
+        ],
+        [
+          2254.0,
+          131.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

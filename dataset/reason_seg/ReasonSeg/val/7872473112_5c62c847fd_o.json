@@ -1,0 +1,91 @@
+{
+  "text": [
+    "If we wanted to identify the specific vehicle shown in the picture, what part of the car should we look at?",
+    "To identify the specific vehicle depicted in the picture, which part of the car should be examined?",
+    "If we want to identify the vehicle displayed in the image, which part of the car should we examine?",
+    "If we wanted to identify the specific car shown in the picture, which part of the vehicle would be most relevant to inspect?",
+    "If we wanted to identify the precise type of vehicle presented in the picture, what particular part of the car should be observed?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "7872473112_5c62c847fd_o.jpg",
+      "points": [
+        [
+          424.8459958932238,
+          659.7535934291581
+        ],
+        [
+          334.90759753593426,
+          634.9075975359343
+        ],
+        [
+          270.4312114989733,
+          613.5523613963039
+        ],
+        [
+          270.84188911704314,
+          610.6776180698151
+        ],
+        [
+          271.66324435318273,
+          607.1868583162218
+        ],
+        [
+          280.9034907597536,
+          569.8151950718685
+        ],
+        [
+          282.54620123203284,
+          568.788501026694
+        ],
+        [
+          284.394250513347,
+          568.3778234086242
+        ],
+        [
+          286.03696098562625,
+          568.788501026694
+        ],
+        [
+          349.48665297741275,
+          586.2422997946612
+        ],
+        [
+          435.3182751540041,
+          607.5975359342916
+        ],
+        [
+          436.13963039014374,
+          608.829568788501
+        ],
+        [
+          437.16632443531824,
+          610.8829568788501
+        ],
+        [
+          437.37166324435316,
+          614.5790554414784
+        ],
+        [
+          429.15811088295686,
+          657.4948665297741
+        ],
+        [
+          427.7207392197125,
+          659.3429158110882
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

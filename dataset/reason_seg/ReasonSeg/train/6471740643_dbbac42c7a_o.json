@@ -1,0 +1,196 @@
+{
+  "text": [
+    "During a religious ceremony, capturing significant moments and memories is important. What object in the picture could be used to capture these moments?",
+    "During a religious ceremony, it is important to capture significant moments and memories. What object in the picture could be utilized to capture such moments?",
+    "During a religious ceremony, it is essential to capture significant moments and memories. Which item in the picture could be utilized to seize these moments?",
+    "When taking photographs of significant events and memories during religious ceremonies, what object in the picture could be utilized to capture these moments?",
+    "During a religious ceremony, it may be important to capture significant moments and memories. What object in the picture could be used to record these moments?",
+    "During a religious ceremony, capturing significant moments and memories could be crucial. What item present in the picture could be utilized to capture these moments?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6471740643_dbbac42c7a_o.jpg",
+      "points": [
+        [
+          466.1,
+          498.8
+        ],
+        [
+          464.4,
+          498.2
+        ],
+        [
+          462.4,
+          498.2
+        ],
+        [
+          460.0,
+          498.2
+        ],
+        [
+          457.5,
+          497.9
+        ],
+        [
+          455.1,
+          434.6
+        ],
+        [
+          456.6,
+          432.5
+        ],
+        [
+          458.5,
+          428.8
+        ],
+        [
+          459.8,
+          425.3
+        ],
+        [
+          460.0,
+          423.4
+        ],
+        [
+          459.8,
+          422.3
+        ],
+        [
+          489.9,
+          418.3
+        ],
+        [
+          492.9,
+          418.4
+        ],
+        [
+          494.8,
+          419.3
+        ],
+        [
+          497.9,
+          421.4
+        ],
+        [
+          499.3,
+          422.4
+        ],
+        [
+          499.6,
+          423.7
+        ],
+        [
+          501.4,
+          448.7
+        ],
+        [
+          500.6,
+          451.0
+        ],
+        [
+          500.3,
+          455.2
+        ],
+        [
+          499.4,
+          460.4
+        ],
+        [
+          498.4,
+          462.7
+        ],
+        [
+          497.4,
+          465.5
+        ],
+        [
+          497.2,
+          471.1
+        ],
+        [
+          493.5,
+          480.8
+        ],
+        [
+          490.7,
+          484.9
+        ],
+        [
+          487.1,
+          490.0
+        ],
+        [
+          486.0,
+          491.2
+        ],
+        [
+          485.1,
+          491.3
+        ],
+        [
+          484.3,
+          488.6
+        ],
+        [
+          483.0,
+          485.0
+        ],
+        [
+          481.4,
+          482.3
+        ],
+        [
+          478.4,
+          481.2
+        ],
+        [
+          476.0,
+          481.2
+        ],
+        [
+          470.6,
+          481.8
+        ],
+        [
+          468.8,
+          482.9
+        ],
+        [
+          467.0,
+          484.4
+        ],
+        [
+          466.4,
+          486.8
+        ],
+        [
+          465.9,
+          489.9
+        ],
+        [
+          465.9,
+          492.5
+        ],
+        [
+          466.2,
+          495.3
+        ],
+        [
+          466.4,
+          496.5
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

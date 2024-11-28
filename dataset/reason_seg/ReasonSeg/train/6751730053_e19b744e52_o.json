@@ -1,0 +1,180 @@
+{
+  "text": [
+    "When pregnant, a woman's abdomen expands to accommodate the growing baby. What part of the woman's body in the picture indicates that she may be pregnant?",
+    "What area of the woman's body in the picture might indicate that she is pregnant, given that the abdomen expands during pregnancy to accommodate the growing baby?",
+    "What part of the woman's body in the image suggests that she may be pregnant, given that a woman's abdomen expands during pregnancy to accommodate the growing baby?",
+    "Can you please identify which part of the woman's body in the picture might indicate that she is pregnant, given that a woman's abdomen typically expands to accommodate a growing baby during pregnancy?",
+    "Which part of the woman's body in the picture suggests that she may be pregnant, given that a woman's abdomen typically expands during pregnancy to support the developing fetus?",
+    "In the picture, which part of the woman's body might suggest that she is pregnant, given that the abdomen would typically grow in size to accommodate the growing baby during pregnancy?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6751730053_e19b744e52_o.jpg",
+      "points": [
+        [
+          1993.6507936507937,
+          2568.253968253968
+        ],
+        [
+          1942.857142857143,
+          2544.4444444444443
+        ],
+        [
+          1901.5873015873017,
+          2515.873015873016
+        ],
+        [
+          1850.7936507936508,
+          2487.3015873015875
+        ],
+        [
+          1831.7460317460318,
+          2461.904761904762
+        ],
+        [
+          1801.5873015873017,
+          2422.222222222222
+        ],
+        [
+          1730.1587301587301,
+          2338.095238095238
+        ],
+        [
+          1712.6984126984128,
+          2290.4761904761904
+        ],
+        [
+          1692.063492063492,
+          2219.047619047619
+        ],
+        [
+          1692.063492063492,
+          2165.0793650793653
+        ],
+        [
+          1704.7619047619048,
+          2109.5238095238096
+        ],
+        [
+          1709.5238095238094,
+          2041.2698412698412
+        ],
+        [
+          1719.047619047619,
+          1961.904761904762
+        ],
+        [
+          1739.6825396825398,
+          1896.8253968253969
+        ],
+        [
+          1785.7142857142858,
+          1811.111111111111
+        ],
+        [
+          1834.920634920635,
+          1744.4444444444443
+        ],
+        [
+          1892.063492063492,
+          1676.1904761904761
+        ],
+        [
+          1930.1587301587301,
+          1638.095238095238
+        ],
+        [
+          1949.2063492063492,
+          1615.873015873016
+        ],
+        [
+          1968.2539682539682,
+          1614.2857142857142
+        ],
+        [
+          2045.0,
+          1600.0
+        ],
+        [
+          2095.0,
+          1615.0
+        ],
+        [
+          2200.0,
+          1642.5
+        ],
+        [
+          2272.5,
+          1672.5
+        ],
+        [
+          2360.0,
+          1727.5
+        ],
+        [
+          2420.0,
+          1797.5
+        ],
+        [
+          2445.0,
+          1922.5
+        ],
+        [
+          2472.5,
+          2037.5
+        ],
+        [
+          2510.0,
+          2177.5
+        ],
+        [
+          2512.5,
+          2280.0
+        ],
+        [
+          2497.5,
+          2347.5
+        ],
+        [
+          2450.0,
+          2452.5
+        ],
+        [
+          2412.5,
+          2510.0
+        ],
+        [
+          2372.5,
+          2540.0
+        ],
+        [
+          2292.5,
+          2575.0
+        ],
+        [
+          2225.0,
+          2585.0
+        ],
+        [
+          2102.5,
+          2585.0
+        ],
+        [
+          2017.5,
+          2577.5
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

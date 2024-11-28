@@ -1,0 +1,65 @@
+{
+  "text": [
+    "When parking a car on the road, what part of the car indicates its registration number and serves as its unique identifier?",
+    "When parking a car on the road, what part of the car serves as its unique identifier by indicating its registration number?",
+    "In a parked car, what part of the vehicle typically serves as its unique identifier by displaying the registration number?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3699286828_7f8ec841f3_o.jpg",
+      "points": [
+        [
+          2409.649122807017,
+          1404.8245614035086
+        ],
+        [
+          2430.2631578947367,
+          1514.0350877192982
+        ],
+        [
+          2435.5263157894733,
+          1511.4035087719296
+        ],
+        [
+          2444.298245614035,
+          1505.7017543859647
+        ],
+        [
+          2607.894736842105,
+          1352.1929824561403
+        ],
+        [
+          2614.0350877192977,
+          1339.9122807017543
+        ],
+        [
+          2603.0701754385964,
+          1276.3157894736842
+        ],
+        [
+          2599.5614035087715,
+          1246.9298245614034
+        ],
+        [
+          2596.052631578947,
+          1246.9298245614034
+        ],
+        [
+          2517.9824561403507,
+          1316.6666666666665
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

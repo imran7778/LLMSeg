@@ -1,0 +1,184 @@
+{
+  "text": [
+    "What object in the picture can be used to control the movement of the dog and ensure that it stays close to the person?",
+    "What object in the picture can be used to control the dog's movement and ensure that it stays in close proximity to the person?",
+    "What item in the picture could be utilized to manage the movement of the dog and keep it near to the individual?",
+    "Which object in the picture is used to control the movement of the dog and keep it close to the person?",
+    "In this picture, what object could be utilized to supervise the dog's movements and ensure that it stays within close proximity to the person?",
+    "Which item in the picture can be used to manage the movement of the dog and safely keep it close to the person?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "388228921_902fc1173b_o.jpg",
+      "points": [
+        [
+          862.0,
+          151.0
+        ],
+        [
+          861.0,
+          153.0
+        ],
+        [
+          861.0,
+          168.0
+        ],
+        [
+          865.2037617554859,
+          179.93730407523512
+        ],
+        [
+          892.0,
+          208.0
+        ],
+        [
+          904.0,
+          219.0
+        ],
+        [
+          916.0,
+          231.0
+        ],
+        [
+          931.0,
+          247.0
+        ],
+        [
+          957.0,
+          276.0
+        ],
+        [
+          962.0,
+          284.0
+        ],
+        [
+          979.3103448275863,
+          299.37304075235113
+        ],
+        [
+          997.0,
+          316.0
+        ],
+        [
+          1009.0,
+          328.0
+        ],
+        [
+          1012.0,
+          332.0
+        ],
+        [
+          1014.0,
+          336.0
+        ],
+        [
+          1014.0,
+          340.0
+        ],
+        [
+          1015.0,
+          343.0
+        ],
+        [
+          1018.0,
+          346.0
+        ],
+        [
+          1021.0,
+          346.0
+        ],
+        [
+          1027.2727272727273,
+          343.2601880877743
+        ],
+        [
+          1027.8996865203762,
+          331.34796238244513
+        ],
+        [
+          1036.0,
+          323.0
+        ],
+        [
+          1038.0,
+          321.0
+        ],
+        [
+          1045.0,
+          313.0
+        ],
+        [
+          1046.0,
+          311.0
+        ],
+        [
+          1046.0,
+          307.0
+        ],
+        [
+          1043.0,
+          304.0
+        ],
+        [
+          1039.0,
+          302.0
+        ],
+        [
+          1033.8557993730408,
+          300.94043887147336
+        ],
+        [
+          1029.780564263323,
+          303.44827586206895
+        ],
+        [
+          1025.0,
+          305.0
+        ],
+        [
+          1022.0,
+          303.0
+        ],
+        [
+          1014.0,
+          296.0
+        ],
+        [
+          988.0,
+          272.0
+        ],
+        [
+          982.7586206896552,
+          268.02507836990594
+        ],
+        [
+          978.0,
+          264.0
+        ],
+        [
+          973.0,
+          261.0
+        ],
+        [
+          912.0,
+          199.0
+        ],
+        [
+          866.0,
+          151.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

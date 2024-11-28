@@ -1,0 +1,255 @@
+{
+  "text": [
+    "During a marathon race, it is important for participants to follow traffic rules and signals to ensure their safety. What object in the picture is commonly used to control the flow of traffic at intersections?",
+    "During a marathon race, participants should follow the traffic rules and signals to ensure safety. What object is commonly utilized to control the flow of traffic at intersections, as seen in the picture?",
+    "During a marathon race, participants should observe traffic rules and signals to ensure their safety. What item in the picture is typically utilized for controlling the flow of traffic at intersections?",
+    "When participating in a marathon, it is crucial to follow traffic rules and signals to ensure everyone's safety. What object is typically employed at intersections to control the flow of traffic, as seen in the picture?",
+    "In a marathon race, it is crucial for participants to comply with traffic regulations and signals to guarantee their safety. What object in the image is commonly used to regulate traffic flow at intersections?",
+    "In a marathon race, participants must adhere to traffic laws and signals for their safety. What object in the image is frequently used to regulate traffic flow at intersections?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "4825346691_5a3c7dcbb1_o.jpg",
+      "points": [
+        [
+          1547.0260223048328,
+          353.53159851301115
+        ],
+        [
+          1542.3791821561338,
+          352.9739776951673
+        ],
+        [
+          1462.825278810409,
+          355.3903345724907
+        ],
+        [
+          1401.8587360594795,
+          358.550185873606
+        ],
+        [
+          1387.918215613383,
+          359.6654275092937
+        ],
+        [
+          1382.899628252788,
+          361.3382899628253
+        ],
+        [
+          1378.2527881040892,
+          364.86988847583643
+        ],
+        [
+          1375.8364312267659,
+          368.02973977695166
+        ],
+        [
+          1374.7211895910782,
+          370.817843866171
+        ],
+        [
+          1377.142857142857,
+          473.015873015873
+        ],
+        [
+          1382.2222222222222,
+          589.8412698412699
+        ],
+        [
+          1383.5777126099706,
+          594.2815249266862
+        ],
+        [
+          1386.5102639296188,
+          598.5337243401759
+        ],
+        [
+          1390.4692082111437,
+          601.4662756598241
+        ],
+        [
+          1395.0146627565982,
+          602.6392961876833
+        ],
+        [
+          1551.3126491646776,
+          597.8520286396181
+        ],
+        [
+          1555.481727574751,
+          597.1207087486158
+        ],
+        [
+          1558.2502768549282,
+          596.124031007752
+        ],
+        [
+          1560.9080841638981,
+          594.3521594684386
+        ],
+        [
+          1563.12292358804,
+          592.1373200442969
+        ],
+        [
+          1564.1196013289039,
+          589.5902547065339
+        ],
+        [
+          1561.4213197969543,
+          453.46869712351946
+        ],
+        [
+          1559.2216582064298,
+          367.51269035532994
+        ],
+        [
+          1558.037225042301,
+          361.75972927241963
+        ],
+        [
+          1556.6835871404398,
+          359.5600676818951
+        ],
+        [
+          1554.1455160744501,
+          357.0219966159052
+        ],
+        [
+          1551.2690355329948,
+          354.99153976311334
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "4825346691_5a3c7dcbb1_o.jpg",
+      "points": [
+        [
+          2180.5343511450383,
+          371.1832061068702
+        ],
+        [
+          2088.358778625954,
+          374.8091603053435
+        ],
+        [
+          2084.351145038168,
+          376.3358778625954
+        ],
+        [
+          2081.4885496183206,
+          379.3893129770992
+        ],
+        [
+          2080.7251908396947,
+          382.82442748091603
+        ],
+        [
+          2080.916030534351,
+          385.30534351145036
+        ],
+        [
+          2088.2022471910113,
+          514.8876404494382
+        ],
+        [
+          2091.85393258427,
+          595.2247191011236
+        ],
+        [
+          2093.258426966292,
+          599.1573033707865
+        ],
+        [
+          2095.2247191011234,
+          601.4044943820224
+        ],
+        [
+          2097.191011235955,
+          604.2134831460675
+        ],
+        [
+          2101.9662921348313,
+          605.3370786516854
+        ],
+        [
+          2191.85393258427,
+          603.0898876404494
+        ],
+        [
+          2196.9101123595506,
+          600.8426966292135
+        ],
+        [
+          2199.7191011235955,
+          598.314606741573
+        ],
+        [
+          2201.123595505618,
+          595.5056179775281
+        ],
+        [
+          2200.8426966292136,
+          590.7303370786517
+        ],
+        [
+          2188.7640449438204,
+          380.3370786516854
+        ],
+        [
+          2188.3,
+          376.9
+        ],
+        [
+          2187.9,
+          375.8
+        ],
+        [
+          2187.5,
+          375.0
+        ],
+        [
+          2186.5,
+          374.0
+        ],
+        [
+          2185.4,
+          373.1
+        ],
+        [
+          2184.2,
+          372.4
+        ],
+        [
+          2183.3,
+          371.9
+        ],
+        [
+          2182.0,
+          371.1
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "text": [
+    "When remodeling or repairing a room, it is important to have proper lighting. What object in the picture can provide natural light to brighten up the room?",
+    "During remodeling or repair of a room, proper lighting is critical. What object in the picture could offer natural light to brighten up the room?",
+    "When remodeling or repairing a room, it is important to ensure that adequate lighting is available. What object in the picture can be used to provide natural light and brighten up the room?",
+    "When remodeling or repairing a room, what object in this picture would provide natural light to brighten up the room?",
+    "When remodeling or repairing a room, what object present in the picture could offer natural light to brighten up the room?",
+    "Proper lighting is essential when remodeling or repairing a room. What object in the picture can provide natural light to brighten up the room?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "7047923769_51b986191a_o.jpg",
+      "points": [
+        [
+          196.0,
+          600.0
+        ],
+        [
+          198.0,
+          604.0
+        ],
+        [
+          208.0,
+          604.0
+        ],
+        [
+          209.0,
+          605.0
+        ],
+        [
+          624.0,
+          624.0
+        ],
+        [
+          635.0,
+          623.0
+        ],
+        [
+          798.0,
+          404.0
+        ],
+        [
+          799.0,
+          401.0
+        ],
+        [
+          796.0,
+          395.0
+        ],
+        [
+          778.0,
+          391.0
+        ],
+        [
+          289.0,
+          257.0
+        ],
+        [
+          281.0,
+          258.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "7047923769_51b986191a_o.jpg",
+      "points": [
+        [
+          916.0655737704917,
+          636.3934426229507
+        ],
+        [
+          726.2295081967212,
+          629.1803278688524
+        ],
+        [
+          897.4226804123712,
+          423.1958762886598
+        ],
+        [
+          1084.020618556701,
+          471.1340206185567
+        ],
+        [
+          1085.0515463917527,
+          473.1958762886598
+        ],
+        [
+          1079.381443298969,
+          478.8659793814433
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

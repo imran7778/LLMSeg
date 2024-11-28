@@ -1,0 +1,91 @@
+{
+  "text": [
+    "Looking up at the night sky, what celestial object can be seen in the picture?",
+    "What celestial object is visible in the picture while looking up at the night sky?",
+    "What celestial object can be observed in the image when gazing up at the night sky?",
+    "What celestial object can be identified in the picture while looking up at the night sky?",
+    "What celestial object is visible in the picture when looking up at the night sky?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "16941550872_dc52aa0ef6_o.jpg",
+      "points": [
+        [
+          327.8705636743215,
+          195.4070981210856
+        ],
+        [
+          331.00208768267225,
+          202.50521920668058
+        ],
+        [
+          332.77661795407096,
+          210.3340292275574
+        ],
+        [
+          332.4634655532359,
+          217.4321503131524
+        ],
+        [
+          330.58455114822544,
+          225.7828810020877
+        ],
+        [
+          327.13987473903967,
+          233.5073068893528
+        ],
+        [
+          322.4425887265136,
+          239.2484342379958
+        ],
+        [
+          316.0751565762004,
+          244.57202505219206
+        ],
+        [
+          309.4989561586639,
+          247.8079331941545
+        ],
+        [
+          302.5052192066806,
+          249.47807933194153
+        ],
+        [
+          291.4405010438413,
+          250.1043841336117
+        ],
+        [
+          283.8204592901879,
+          248.64300626304802
+        ],
+        [
+          275.78288100208766,
+          244.258872651357
+        ],
+        [
+          273.69519832985384,
+          241.44050104384132
+        ],
+        [
+          319.41544885177456,
+          185.28183716075156
+        ],
+        [
+          324.5302713987474,
+          190.7098121085595
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

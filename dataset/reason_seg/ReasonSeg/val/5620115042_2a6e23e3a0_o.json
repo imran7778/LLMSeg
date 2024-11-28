@@ -1,0 +1,95 @@
+{
+  "text": [
+    "Dogs are faithful companions to humans, and humans often play fetch games with them. What object will the dog likely retrieve and bring back to the human for the next round of fetch in the picture?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "5620115042_2a6e23e3a0_o.jpg",
+      "points": [
+        [
+          1705.6,
+          782.4
+        ],
+        [
+          1758.4,
+          819.2
+        ],
+        [
+          1787.2,
+          828.8
+        ],
+        [
+          1840.8,
+          826.4
+        ],
+        [
+          1883.2,
+          812.8
+        ],
+        [
+          1926.4,
+          772.8
+        ],
+        [
+          1943.2,
+          740.0
+        ],
+        [
+          1952.0,
+          691.2
+        ],
+        [
+          1947.2,
+          667.2
+        ],
+        [
+          1922.4,
+          685.6
+        ],
+        [
+          1841.6,
+          705.6
+        ],
+        [
+          1788.8,
+          704.0
+        ],
+        [
+          1732.8,
+          688.8
+        ],
+        [
+          1708.0,
+          690.4
+        ],
+        [
+          1685.6,
+          701.6
+        ],
+        [
+          1676.0,
+          718.4
+        ],
+        [
+          1682.4,
+          746.4
+        ],
+        [
+          1694.4,
+          774.4
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

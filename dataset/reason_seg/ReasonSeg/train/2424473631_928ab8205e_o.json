@@ -1,0 +1,115 @@
+{
+  "text": [
+    "If someone wants to play a video game on the computer, what part of the computer is used to display the game visuals?",
+    "When someone wants to play a video game on the computer, what component of the computer is used to display the game visuals?",
+    "If someone wants to play a video game on the computer, which component of the computer system is primarily utilized to showcase the game visuals?",
+    "If someone wants to play a video game on the computer, which part of the computer is typically used to display the visual elements of the game?",
+    "When playing a video game on a computer, what component of the computer is utilized to display the game's visuals?",
+    "While playing a video game on a computer, which component of the computer is utilized to display game visuals?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2424473631_928ab8205e_o.jpg",
+      "points": [
+        [
+          113.0952380952381,
+          0.0
+        ],
+        [
+          204.16666666666669,
+          779.7619047619048
+        ],
+        [
+          1002.3809523809524,
+          1144.047619047619
+        ],
+        [
+          1121.1267605633802,
+          1199.0
+        ],
+        [
+          1398.5915492957747,
+          1197.887323943662
+        ],
+        [
+          1525.2747252747251,
+          2.1978021978021975
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "2424473631_928ab8205e_o.jpg",
+      "points": [
+        [
+          550.05265005265,
+          944.1441441441441
+        ],
+        [
+          401.40400140400135,
+          1027.9279279279278
+        ],
+        [
+          388.7913887913887,
+          1043.2432432432431
+        ],
+        [
+          386.0886860886861,
+          1054.054054054054
+        ],
+        [
+          385.18778518778515,
+          1072.972972972973
+        ],
+        [
+          386.0886860886861,
+          1099.099099099099
+        ],
+        [
+          394.19679419679414,
+          1110.8108108108106
+        ],
+        [
+          396.89949689949685,
+          1118.018018018018
+        ],
+        [
+          404.10670410670406,
+          1126.126126126126
+        ],
+        [
+          530.2328302328302,
+          1196.3963963963963
+        ],
+        [
+          1020.3229203229203,
+          1197.2972972972973
+        ],
+        [
+          1045.5481455481454,
+          1166.6666666666665
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

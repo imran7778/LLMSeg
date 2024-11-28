@@ -1,0 +1,159 @@
+{
+  "text": [
+    "In a dark cave, there is no natural light source. What object in the picture can be used to provide light to navigate and explore the cave?",
+    "Given the lack of a natural light source in a dark cave, what could be used as a source of light to navigate and explore?",
+    "In a dark cave, what object in the picture could be utilized as a light source to help navigate and explore?",
+    "When exploring a dark cave, what object in the picture might be utilized to provide light for navigation and exploration?",
+    "When there is no natural light source in a dark cave, what object in the picture might be used to provide illumination for navigation and exploration?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "540048064_3974a75570_o.jpg",
+      "points": [
+        [
+          302.0,
+          285.0
+        ],
+        [
+          301.0,
+          288.0
+        ],
+        [
+          301.0,
+          292.0
+        ],
+        [
+          302.0,
+          297.0
+        ],
+        [
+          303.0,
+          299.0
+        ],
+        [
+          305.0,
+          301.0
+        ],
+        [
+          309.0,
+          303.0
+        ],
+        [
+          327.0,
+          309.0
+        ],
+        [
+          331.0,
+          310.0
+        ],
+        [
+          337.0,
+          311.1
+        ],
+        [
+          344.3,
+          309.9
+        ],
+        [
+          345.0,
+          309.0
+        ],
+        [
+          349.0,
+          305.0
+        ],
+        [
+          350.0,
+          302.0
+        ],
+        [
+          351.0,
+          294.4
+        ],
+        [
+          351.0,
+          288.0
+        ],
+        [
+          351.0,
+          285.0
+        ],
+        [
+          349.0,
+          279.0
+        ],
+        [
+          347.0,
+          276.0
+        ],
+        [
+          344.0,
+          273.0
+        ],
+        [
+          339.0,
+          272.0
+        ],
+        [
+          327.0,
+          272.0
+        ],
+        [
+          324.0,
+          273.0
+        ],
+        [
+          321.0,
+          272.8
+        ],
+        [
+          315.5,
+          273.1
+        ],
+        [
+          315.8,
+          274.7
+        ],
+        [
+          322.1,
+          276.5
+        ],
+        [
+          322.1,
+          278.2
+        ],
+        [
+          319.8,
+          281.4
+        ],
+        [
+          317.8,
+          283.1
+        ],
+        [
+          314.7,
+          283.7
+        ],
+        [
+          307.0,
+          283.9
+        ],
+        [
+          304.0,
+          283.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "text": [
+    "Public speakers often use a tool to amplify their voice and ensure that their message is heard by the audience. What specific tool in this picture could be used for this purpose?",
+    "During public speaking events, speakers often utilize a specific device to amplify their voices and ensure that their message is clearly conveyed to the audience. Which tool in this image could be utilized for this purpose?",
+    "In public speaking, a tool is often utilized to amplify the speaker's voice and enable their message to be heard clearly by the audience. Which particular tool in this image could serve this purpose?",
+    "When delivering speeches to the public, speakers frequently employ a tool to amplify their voice and ensure that their message is heard by the audience effectively. What specific tool in this picture could be utilized for this purpose?",
+    "Public speakers often utilize an item to amplify their voice and ensure their message is conveyed clearly to the audience. What specific item in this picture might serve this purpose?",
+    "When addressing an audience, public speakers often utilize a specific tool to amplify their voice and ensure that their message is heard clearly. Based on the image, what specific tool could be utilized to fulfill this purpose?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "14805705754_76a9ae48ff_o.jpg",
+      "points": [
+        [
+          218.90243902439022,
+          214.93902439024387
+        ],
+        [
+          218.0,
+          213.0
+        ],
+        [
+          217.0,
+          211.0
+        ],
+        [
+          214.0,
+          208.0
+        ],
+        [
+          211.0,
+          206.0
+        ],
+        [
+          209.0,
+          205.0
+        ],
+        [
+          206.4406779661017,
+          204.63276836158192
+        ],
+        [
+          204.8587570621469,
+          204.8587570621469
+        ],
+        [
+          200.0,
+          205.0
+        ],
+        [
+          198.0,
+          206.0
+        ],
+        [
+          196.27118644067798,
+          208.58757062146893
+        ],
+        [
+          190.05649717514126,
+          216.49717514124293
+        ],
+        [
+          189.15254237288136,
+          216.045197740113
+        ],
+        [
+          187.34463276836158,
+          214.01129943502826
+        ],
+        [
+          184.9717514124294,
+          212.54237288135593
+        ],
+        [
+          181.5819209039548,
+          211.63841807909606
+        ],
+        [
+          177.85310734463278,
+          211.63841807909606
+        ],
+        [
+          174.80225988700565,
+          212.31638418079098
+        ],
+        [
+          172.20338983050848,
+          213.55932203389833
+        ],
+        [
+          170.8,
+          215.1
+        ],
+        [
+          169.0,
+          217.0
+        ],
+        [
+          167.909604519774,
+          218.4180790960452
+        ],
+        [
+          166.5,
+          220.7
+        ],
+        [
+          164.8587570621469,
+          223.61581920903956
+        ],
+        [
+          164.0,
+          226.0
+        ],
+        [
+          163.16384180790962,
+          231.18644067796612
+        ],
+        [
+          163.05084745762713,
+          235.48022598870057
+        ],
+        [
+          163.38983050847457,
+          237.40112994350284
+        ],
+        [
+          163.50282485875707,
+          238.6440677966102
+        ],
+        [
+          160.36585365853657,
+          244.66463414634146
+        ],
+        [
+          196.49717514124293,
+          245.19774011299435
+        ],
+        [
+          199.23780487804876,
+          242.98780487804876
+        ],
+        [
+          202.1341463414634,
+          240.85365853658536
+        ],
+        [
+          204.63276836158192,
+          240.0
+        ],
+        [
+          205.87570621468927,
+          238.5310734463277
+        ],
+        [
+          218.0,
+          221.0
+        ],
+        [
+          219.0,
+          217.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "14805705754_76a9ae48ff_o.jpg",
+      "points": [
+        [
+          163.0,
+          210.0
+        ],
+        [
+          161.0989010989011,
+          207.47252747252747
+        ],
+        [
+          159.0,
+          206.0
+        ],
+        [
+          156.81318681318683,
+          204.6153846153846
+        ],
+        [
+          155.0,
+          204.0
+        ],
+        [
+          152.1978021978022,
+          203.4065934065934
+        ],
+        [
+          149.0,
+          204.0
+        ],
+        [
+          145.0,
+          206.0
+        ],
+        [
+          127.1,
+          227.7
+        ],
+        [
+          126.0,
+          230.0
+        ],
+        [
+          126.3,
+          232.5
+        ],
+        [
+          126.4,
+          234.1
+        ],
+        [
+          127.5,
+          236.9
+        ],
+        [
+          121.6,
+          245.2
+        ],
+        [
+          144.83516483516485,
+          245.27472527472528
+        ],
+        [
+          146.81318681318683,
+          243.0769230769231
+        ],
+        [
+          149.56043956043956,
+          239.8901098901099
+        ],
+        [
+          162.0,
+          226.0
+        ],
+        [
+          163.51648351648353,
+          222.63736263736266
+        ],
+        [
+          164.0,
+          222.0
+        ],
+        [
+          165.0,
+          219.0
+        ],
+        [
+          165.60439560439562,
+          217.03296703296704
+        ],
+        [
+          165.0,
+          215.0
+        ],
+        [
+          164.0,
+          212.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

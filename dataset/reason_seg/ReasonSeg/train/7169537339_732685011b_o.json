@@ -1,0 +1,89 @@
+{
+  "text": [
+    "In some countries, buses are required to display a unique identifier on the back of the vehicle for identification purposes. What part of the bus in the image could be used to display this identifier?",
+    "In some countries, buses are required to display a unique identifier on the back of the vehicle for identification purposes. What region of the bus in the image could be used to showcase this identifier?",
+    "In some countries, buses are required to present an exclusive identifier on the back of the vehicle for identification purposes. What part of the bus in the image could commonly be used to display this identifier?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "7169537339_732685011b_o.jpg",
+      "points": [
+        [
+          2792.972972972973,
+          2026.4864864864865
+        ],
+        [
+          2660.5405405405404,
+          2061.081081081081
+        ],
+        [
+          2652.972972972973,
+          2062.162162162162
+        ],
+        [
+          2652.972972972973,
+          2059.459459459459
+        ],
+        [
+          2674.5945945945946,
+          1909.7297297297296
+        ],
+        [
+          2679.189189189189,
+          1903.5135135135133
+        ],
+        [
+          2687.5675675675675,
+          1895.9459459459458
+        ],
+        [
+          2690.0,
+          1889.4594594594594
+        ],
+        [
+          2693.243243243243,
+          1886.4864864864865
+        ],
+        [
+          2790.5405405405404,
+          1864.054054054054
+        ],
+        [
+          2798.3783783783783,
+          1864.054054054054
+        ],
+        [
+          2800.810810810811,
+          1866.4864864864865
+        ],
+        [
+          2801.8918918918916,
+          1878.9189189189187
+        ],
+        [
+          2802.4324324324325,
+          1895.4054054054054
+        ],
+        [
+          2793.7837837837837,
+          1979.4594594594594
+        ],
+        [
+          2793.7837837837837,
+          2002.7027027027027
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

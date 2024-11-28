@@ -1,0 +1,100 @@
+{
+  "text": [
+    "If we want to enter the building shown in the picture, what object should we look for that serves as an entry point?",
+    "What should we look for in order to find an entry point if we want to enter the building shown in the picture?",
+    "If we want to enter the building shown in the picture, which part or object should we look for that serves as an entry point to the building?",
+    "If we intend to enter the building that is featured in the picture, what should we look for to serve as an entry point?",
+    "If we want to enter the building shown in the picture, what part of the building would serve as an entry point?",
+    "If we intend to enter the building showcased in the picture, what object should we look for that could function as an entry point?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3616984882_ae3e319f01_o.jpg",
+      "points": [
+        [
+          675.0,
+          300.0
+        ],
+        [
+          679.0,
+          304.0
+        ],
+        [
+          680.0,
+          307.0
+        ],
+        [
+          686.0,
+          439.0
+        ],
+        [
+          688.0,
+          443.0
+        ],
+        [
+          691.0,
+          444.0
+        ],
+        [
+          772.0,
+          442.0
+        ],
+        [
+          775.2551020408164,
+          441.07142857142856
+        ],
+        [
+          770.0,
+          296.0
+        ],
+        [
+          769.0,
+          293.0
+        ],
+        [
+          768.0,
+          291.0
+        ],
+        [
+          761.8897637795275,
+          285.3543307086614
+        ],
+        [
+          754.3307086614172,
+          280.47244094488184
+        ],
+        [
+          738.7401574803149,
+          274.9606299212598
+        ],
+        [
+          717.6377952755905,
+          274.64566929133855
+        ],
+        [
+          699.6850393700787,
+          278.26771653543307
+        ],
+        [
+          687.0866141732283,
+          285.03937007874015
+        ],
+        [
+          674.8031496062991,
+          297.3228346456693
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

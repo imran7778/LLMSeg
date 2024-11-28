@@ -1,0 +1,97 @@
+{
+  "text": [
+    "During a baseball game, the batter attempts to hit the ball thrown by the pitcher. What object in the picture does the batter use to hit the ball?",
+    "In a baseball game, what instrument does the batter utilize to strike the ball thrown by the pitcher?",
+    "In a baseball game, what object does the batter use to hit the ball thrown by the pitcher?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "11709607_652f25a747_o.jpg",
+      "points": [
+        [
+          662.0,
+          612.0
+        ],
+        [
+          661.0,
+          614.0
+        ],
+        [
+          658.2491582491582,
+          619.5286195286195
+        ],
+        [
+          667.3400673400673,
+          629.6296296296296
+        ],
+        [
+          804.0,
+          740.0
+        ],
+        [
+          810.0,
+          745.0
+        ],
+        [
+          813.0,
+          746.0
+        ],
+        [
+          815.0,
+          746.0
+        ],
+        [
+          817.0,
+          745.0
+        ],
+        [
+          819.0,
+          743.0
+        ],
+        [
+          821.0,
+          740.0
+        ],
+        [
+          821.0,
+          734.0
+        ],
+        [
+          813.0,
+          726.0
+        ],
+        [
+          692.0,
+          615.0
+        ],
+        [
+          684.0,
+          608.0
+        ],
+        [
+          679.7979797979798,
+          605.050505050505
+        ],
+        [
+          672.053872053872,
+          604.7138047138046
+        ],
+        [
+          664.0,
+          610.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

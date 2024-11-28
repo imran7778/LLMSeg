@@ -1,0 +1,124 @@
+{
+  "text": [
+    "In urban areas, there are designated areas for bicycles to ride safely. What area in the picture would a cyclist use to navigate through the city?",
+    "In urban areas, designated bike lanes are provided, allowing cyclists to ride safely. Can you please identify which area in the picture would be appropriate for a cyclist to use while navigating through the city?",
+    "Which region in the picture would a cyclist possibly utilize to navigate through the city, as designated areas for bicycles to ride safely exist in urban areas?",
+    "In urban areas, there are designated areas that are safe for bicycles to ride. Which area in the picture would typically be utilized by a cyclist to navigate through a city?",
+    "What area in the picture would a cyclist typically utilize to navigate safely through urban areas where designated bike paths exist?",
+    "What area within the image would a cyclist most likely use to navigate safely through the city in an urban setting where specific riding areas are designated for bicycles?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "7998502688_e1b379864c_o.jpg",
+      "points": [
+        [
+          2546.0,
+          883.0
+        ],
+        [
+          2158.0,
+          1089.0
+        ],
+        [
+          2138.0,
+          1086.0
+        ],
+        [
+          2029.0,
+          1133.0
+        ],
+        [
+          1936.0,
+          1160.0
+        ],
+        [
+          1764.0,
+          1189.0
+        ],
+        [
+          732.0,
+          1306.0
+        ],
+        [
+          369.0,
+          1360.0
+        ],
+        [
+          0.0,
+          1429.0
+        ],
+        [
+          1.0,
+          1555.0
+        ],
+        [
+          246.0,
+          1578.0
+        ],
+        [
+          433.0,
+          1603.0
+        ],
+        [
+          518.0,
+          1604.0
+        ],
+        [
+          900.0,
+          1484.0
+        ],
+        [
+          1046.0,
+          1449.0
+        ],
+        [
+          1437.0,
+          1375.0
+        ],
+        [
+          2056.0,
+          1293.0
+        ],
+        [
+          2258.0,
+          1258.0
+        ],
+        [
+          2374.0,
+          1229.0
+        ],
+        [
+          2432.0,
+          1208.0
+        ],
+        [
+          2476.0,
+          1184.0
+        ],
+        [
+          2496.0,
+          1167.0
+        ],
+        [
+          2545.537757437071,
+          962.7002288329519
+        ],
+        [
+          2568.0,
+          883.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "text": [
+    "When visiting the dentist's office, what part of the body is the dentist most likely to examine and work on?",
+    "During a visit to the dentist's office, which body part is the dentist most likely to examine and work on?",
+    "During a visit to the dentist's office, what part of the body is the dentist most likely to examine and work on?",
+    "During a visit to the dentist's office, which part of the body is typically examined and treated by the dentist?",
+    "At a dentist's office, which part of the body is the dentist primarily focused on examining and treating?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "16451543799_35d7538ce2_o.jpg",
+      "points": [
+        [
+          199.2,
+          351.6
+        ],
+        [
+          202.6,
+          352.8
+        ],
+        [
+          203.4,
+          353.9
+        ],
+        [
+          203.6,
+          355.0
+        ],
+        [
+          202.2,
+          355.5
+        ],
+        [
+          197.9,
+          358.2
+        ],
+        [
+          195.9,
+          359.0
+        ],
+        [
+          192.1,
+          359.3
+        ],
+        [
+          188.8,
+          358.8
+        ],
+        [
+          192.7,
+          355.8
+        ],
+        [
+          196.8,
+          353.1
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

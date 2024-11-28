@@ -1,0 +1,108 @@
+{
+  "text": [
+    "In many countries, it is mandatory for cars to display a unique identification number on their rear or front part. What part of the car in the picture would likely bear this unique identification number?",
+    "In many countries, cars are required to display a unique identification number on either their front or rear end. Where is the unique identification number likely to be located on the car in this picture?",
+    "In many countries, it is a legal requirement for motor vehicles to display a singular identification number on either the front or the rear of the vehicle. Based on the image, which part of the car is most likely to bear this unique identification number?",
+    "In numerous places, it is a legal requirement for cars to display a unique identification number on either the front or rear of the vehicle. What section of the car in the picture would most likely bear this unique identification number?",
+    "In many countries, it is mandatory for cars to prominently display a unique identification number. Given this context, which region(s) of the car in the image would typically carry this unique identification number?",
+    "In many countries, cars are required to display a unique identification number on their rear or front parts. What section of the car in the picture would most likely feature this unique identification number?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "17259277046_bd60d5943b_o.jpg",
+      "points": [
+        [
+          720.4472843450479,
+          3014.0575079872206
+        ],
+        [
+          814.0311804008908,
+          3027.39420935412
+        ],
+        [
+          1049.4736842105262,
+          3057.6315789473683
+        ],
+        [
+          1056.0526315789473,
+          3060.2631578947367
+        ],
+        [
+          1059.7368421052631,
+          3063.9473684210525
+        ],
+        [
+          1064.2105263157894,
+          3071.315789473684
+        ],
+        [
+          1065.2631578947369,
+          3078.9473684210525
+        ],
+        [
+          1054.4736842105262,
+          3266.052631578947
+        ],
+        [
+          1048.9473684210525,
+          3275.7894736842104
+        ],
+        [
+          1041.3157894736842,
+          3281.052631578947
+        ],
+        [
+          1035.5263157894735,
+          3281.578947368421
+        ],
+        [
+          842.9319371727748,
+          3253.1413612565443
+        ],
+        [
+          681.0526315789473,
+          3230.0
+        ],
+        [
+          675.2631578947368,
+          3226.8421052631575
+        ],
+        [
+          668.9473684210526,
+          3218.4210526315787
+        ],
+        [
+          667.3684210526316,
+          3213.157894736842
+        ],
+        [
+          677.8947368421052,
+          3022.894736842105
+        ],
+        [
+          683.1578947368421,
+          3015.7894736842104
+        ],
+        [
+          692.1052631578947,
+          3010.5263157894733
+        ],
+        [
+          697.6315789473683,
+          3010.5263157894733
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "text": [
+    "In order to ensure traffic safety, vehicles need to follow the instructions given by a device at the side of the road. What in the picture provides these instructions?",
+    "To ensure traffic safety, vehicles tend to rely on instructions provided by devices present at the side of the road. Based on the picture, what device might be utilized to provide such directions?",
+    "To promote safe traffic practices, vehicles may need to comply with the guidelines offered by a device located at the roadside. What object in the picture can provide these instructions?",
+    "What in the picture is responsible for providing instructions that ensure traffic safety and which vehicles should follow?",
+    "To maintain traffic safety, vehicles must obey the directives given by a device situated at the side of the road. What provides these instructions in the picture?",
+    "What device in the picture provides instructions to ensure traffic safety while driving on the road?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "8216635046_8b6782cc85_o.jpg",
+      "points": [
+        [
+          236.1,
+          97.9
+        ],
+        [
+          237.3,
+          100.1
+        ],
+        [
+          237.6,
+          102.3
+        ],
+        [
+          237.4,
+          103.8
+        ],
+        [
+          236.8,
+          105.4
+        ],
+        [
+          235.3,
+          106.5
+        ],
+        [
+          233.6,
+          107.0
+        ],
+        [
+          231.2,
+          107.1
+        ],
+        [
+          229.2,
+          106.3
+        ],
+        [
+          228.1,
+          105.0
+        ],
+        [
+          227.5,
+          103.1
+        ],
+        [
+          227.3,
+          101.3
+        ],
+        [
+          227.5,
+          100.1
+        ],
+        [
+          228.7,
+          98.3
+        ],
+        [
+          229.5,
+          97.2
+        ],
+        [
+          231.6,
+          96.2
+        ],
+        [
+          233.7,
+          96.3
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "8216635046_8b6782cc85_o.jpg",
+      "points": [
+        [
+          144.6,
+          78.1
+        ],
+        [
+          144.8,
+          80.8
+        ],
+        [
+          144.3,
+          82.5
+        ],
+        [
+          144.0,
+          83.3
+        ],
+        [
+          143.0,
+          83.9
+        ],
+        [
+          141.5,
+          84.8
+        ],
+        [
+          139.2,
+          84.6
+        ],
+        [
+          137.6,
+          84.0
+        ],
+        [
+          136.4,
+          83.0
+        ],
+        [
+          135.6,
+          81.6
+        ],
+        [
+          135.0,
+          79.4
+        ],
+        [
+          134.9,
+          77.8
+        ],
+        [
+          134.9,
+          76.6
+        ],
+        [
+          144.6,
+          77.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "8216635046_8b6782cc85_o.jpg",
+      "points": [
+        [
+          426.57952069716777,
+          97.38562091503269
+        ],
+        [
+          427.66884531590415,
+          101.52505446623094
+        ],
+        [
+          426.79738562091507,
+          106.31808278867102
+        ],
+        [
+          421.13289760348584,
+          106.75381263616558
+        ],
+        [
+          417.8649237472767,
+          104.13943355119827
+        ],
+        [
+          417.64705882352945,
+          98.91067538126362
+        ],
+        [
+          420.6971677559913,
+          95.86056644880175
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "8216635046_8b6782cc85_o.jpg",
+      "points": [
+        [
+          531.3725490196078,
+          99.1285403050109
+        ],
+        [
+          533.1154684095861,
+          104.7930283224401
+        ],
+        [
+          531.1546840958606,
+          107.18954248366013
+        ],
+        [
+          523.3115468409586,
+          107.62527233115469
+        ],
+        [
+          520.9150326797386,
+          104.7930283224401
+        ],
+        [
+          522.6579520697168,
+          99.1285403050109
+        ],
+        [
+          525.4901960784314,
+          97.60348583877996
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

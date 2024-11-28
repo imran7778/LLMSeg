@@ -1,0 +1,235 @@
+{
+  "text": [
+    "In a laboratory setting, there are often complex electronic devices that require constant monitoring and adjustment. What in the picture could a person be operating and monitoring?",
+    "In the setting of a laboratory, a person may need to monitor and adjust complicated electronic devices frequently. Please identify what in the picture a person may be operating and monitoring in such a scenario.",
+    "In a laboratory setting, individuals must often closely monitor and adjust complex electronic devices. What equipment in this picture might a person be operating and monitoring?",
+    "In a laboratory setting, what could a person be operating and monitoring in the picture, where complex electronic equipment that requires constant adjustments is commonplace?",
+    "Within a laboratory setting, there are often complex electronic instruments that require frequent monitoring and adjustments. What device in the picture might a person be operating and monitoring in this context?",
+    "In a laboratory setting, there are complex electronic devices that may require constant monitoring and adjustment. Please identify what in the picture might a person be operating and monitoring?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "17161423530_9ab8e26d39_o.jpg",
+      "points": [
+        [
+          1200.0,
+          1686.0759493670885
+        ],
+        [
+          1168.987341772152,
+          1968.987341772152
+        ],
+        [
+          1160.2564102564104,
+          2026.0683760683762
+        ],
+        [
+          1158.5470085470085,
+          2035.042735042735
+        ],
+        [
+          1154.2735042735044,
+          2039.7435897435898
+        ],
+        [
+          1136.3247863247864,
+          2040.1709401709402
+        ],
+        [
+          1119.718309859155,
+          2055.9859154929577
+        ],
+        [
+          1103.8461538461538,
+          2072.6495726495727
+        ],
+        [
+          1104.225352112676,
+          2080.6338028169016
+        ],
+        [
+          1109.5070422535211,
+          2099.2957746478874
+        ],
+        [
+          971.3675213675215,
+          2246.153846153846
+        ],
+        [
+          940.6976744186046,
+          2275.968992248062
+        ],
+        [
+          927.1317829457364,
+          2286.046511627907
+        ],
+        [
+          900.0,
+          2307.751937984496
+        ],
+        [
+          882.9457364341085,
+          2327.5193798449613
+        ],
+        [
+          863.953488372093,
+          2351.937984496124
+        ],
+        [
+          855.0387596899225,
+          2369.767441860465
+        ],
+        [
+          782.9457364341085,
+          2447.286821705426
+        ],
+        [
+          762.015503875969,
+          2455.813953488372
+        ],
+        [
+          731.782945736434,
+          2464.3410852713178
+        ],
+        [
+          708.1395348837209,
+          2468.217054263566
+        ],
+        [
+          524.031007751938,
+          2459.3023255813955
+        ],
+        [
+          130.6201550387597,
+          2436.046511627907
+        ],
+        [
+          113.56589147286822,
+          2399.6124031007753
+        ],
+        [
+          107.36434108527132,
+          2379.06976744186
+        ],
+        [
+          65.85365853658537,
+          2347.1544715447153
+        ],
+        [
+          0.0,
+          2300.8474576271187
+        ],
+        [
+          0.0,
+          985.2459016393442
+        ],
+        [
+          466.6666666666667,
+          991.0
+        ],
+        [
+          1202.8795811518323,
+          1002.6178010471203
+        ],
+        [
+          1224.34554973822,
+          1003.4031413612564
+        ],
+        [
+          1239.7905759162302,
+          1007.5916230366491
+        ],
+        [
+          1249.7382198952878,
+          1013.089005235602
+        ],
+        [
+          1260.7329842931936,
+          1024.0837696335077
+        ],
+        [
+          1268.5863874345548,
+          1038.7434554973822
+        ],
+        [
+          1272.5130890052355,
+          1055.7591623036649
+        ],
+        [
+          1273.0366492146595,
+          1070.6806282722512
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "17161423530_9ab8e26d39_o.jpg",
+      "points": [
+        [
+          239.02439024390242,
+          334.1463414634146
+        ],
+        [
+          1526.8292682926829,
+          309.7560975609756
+        ],
+        [
+          1856.0975609756097,
+          853.6585365853658
+        ],
+        [
+          1729.2682926829266,
+          1065.8536585365853
+        ],
+        [
+          1649.9999999999998,
+          1094.2857142857142
+        ],
+        [
+          1478.0487804878048,
+          1087.8048780487804
+        ],
+        [
+          1278.0487804878048,
+          1078.0487804878048
+        ],
+        [
+          1274.2857142857142,
+          1014.2857142857142
+        ],
+        [
+          1225.7142857142856,
+          988.5714285714284
+        ],
+        [
+          372.85714285714283,
+          981.4285714285713
+        ],
+        [
+          161.42857142857142,
+          354.2857142857143
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

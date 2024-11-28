@@ -1,0 +1,111 @@
+{
+  "text": [
+    "In a baseball game, the pitcher throws the ball towards the batter. What tool in the picture is primarily used to hit the ball?",
+    "In a baseball game, the pitcher throws the ball towards the batter. What instrument in the picture is primarily used by the batter to hit the ball?",
+    "In a baseball game, the pitcher throws the ball towards the batter. What object in the picture is primarily utilized to hit the ball?",
+    "In a baseball game, what item is primarily used to strike the ball when the pitcher throws it towards the batter?",
+    "What tool is primarily utilized to hit the ball in a baseball game, where the pitcher throws the ball towards the batter?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "11710556_67e2078fd8_o.jpg",
+      "points": [
+        [
+          315.3623188405797,
+          551.8840579710145
+        ],
+        [
+          314.86486486486484,
+          558.108108108108
+        ],
+        [
+          314.86486486486484,
+          565.7657657657658
+        ],
+        [
+          315.65217391304344,
+          572.1739130434783
+        ],
+        [
+          318.4684684684684,
+          574.7747747747748
+        ],
+        [
+          324.3243243243243,
+          577.9279279279278
+        ],
+        [
+          330.6122448979592,
+          578.5714285714286
+        ],
+        [
+          658.6734693877551,
+          636.7346938775511
+        ],
+        [
+          665.8163265306123,
+          638.7755102040817
+        ],
+        [
+          669.9386503067484,
+          639.5705521472393
+        ],
+        [
+          671.685393258427,
+          638.6516853932584
+        ],
+        [
+          672.3595505617977,
+          636.1797752808989
+        ],
+        [
+          672.3595505617977,
+          633.7078651685393
+        ],
+        [
+          671.6216216216216,
+          627.4774774774775
+        ],
+        [
+          669.6581196581197,
+          626.0683760683761
+        ],
+        [
+          666.2393162393163,
+          623.931623931624
+        ],
+        [
+          350.0,
+          544.8717948717949
+        ],
+        [
+          331.98198198198196,
+          540.09009009009
+        ],
+        [
+          323.76811594202894,
+          540.0
+        ],
+        [
+          321.0,
+          543.0
+        ],
+        [
+          317.0,
+          546.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "text": [
+    "Cats are known for their ability to see clearly even in low light conditions. What part of the cat's anatomy helps them to have good night vision?",
+    "What specific part of a cat's anatomy enables them to see clearly even in low light conditions and possess good night vision?",
+    "What is the specific part of a cat's anatomy that helps them have good night vision, as they are known for their ability to see clearly even in low light conditions?",
+    "Cats are renowned for their ability to see well even in low light conditions. Which part of a cat's anatomy allows them to have good night vision?",
+    "What aspect of the cat's anatomy enables them to see well in low light situations, a trait which they are commonly recognized for?",
+    "What specific part of a cat's anatomy is responsible for their ability to see clearly even in low light conditions?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "16412749190_949273d7fb_o.jpg",
+      "points": [
+        [
+          1625.2559726962456,
+          769.9658703071672
+        ],
+        [
+          1619.2982456140348,
+          814.9122807017543
+        ],
+        [
+          1614.889705882353,
+          829.2279411764705
+        ],
+        [
+          1595.9044368600682,
+          878.1569965870307
+        ],
+        [
+          1588.0546075085324,
+          888.3959044368601
+        ],
+        [
+          1570.3071672354947,
+          856.655290102389
+        ],
+        [
+          1557.3378839590443,
+          819.1126279863481
+        ],
+        [
+          1554.9488054607507,
+          782.2525597269624
+        ],
+        [
+          1559.38566552901,
+          749.4880546075085
+        ],
+        [
+          1578.839590443686,
+          706.4846416382252
+        ],
+        [
+          1605.4607508532422,
+          674.7440273037543
+        ],
+        [
+          1621.8430034129692,
+          662.7986348122867
+        ],
+        [
+          1620.4778156996585,
+          680.5460750853242
+        ],
+        [
+          1621.5017064846415,
+          727.9863481228668
+        ],
+        [
+          1624.5733788395903,
+          760.0682593856654
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "16412749190_949273d7fb_o.jpg",
+      "points": [
+        [
+          1753.2967032967033,
+          1567.3076923076922
+        ],
+        [
+          1765.3846153846152,
+          1596.1538461538462
+        ],
+        [
+          1774.4505494505495,
+          1614.5604395604396
+        ],
+        [
+          1781.043956043956,
+          1635.7142857142856
+        ],
+        [
+          1781.043956043956,
+          1642.857142857143
+        ],
+        [
+          1737.3626373626373,
+          1610.989010989011
+        ],
+        [
+          1714.0109890109889,
+          1592.857142857143
+        ],
+        [
+          1699.7252747252746,
+          1575.2747252747251
+        ],
+        [
+          1689.2857142857142,
+          1552.4725274725274
+        ],
+        [
+          1681.8681318681317,
+          1529.6703296703297
+        ],
+        [
+          1677.2870662460568,
+          1493.6908517350157
+        ],
+        [
+          1674.763406940063,
+          1476.9716088328075
+        ],
+        [
+          1674.447949526814,
+          1464.6687697160883
+        ],
+        [
+          1680.901287553648,
+          1470.1716738197424
+        ],
+        [
+          1696.8454258675079,
+          1489.2744479495268
+        ],
+        [
+          1712.6182965299686,
+          1505.0473186119875
+        ],
+        [
+          1727.7602523659307,
+          1523.3438485804418
+        ],
+        [
+          1743.5331230283912,
+          1545.7413249211356
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

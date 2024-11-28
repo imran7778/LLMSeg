@@ -1,0 +1,119 @@
+{
+  "text": [
+    "Polar bears are known for their ability to swim in icy waters. What area in the picture provides a suitable environment for a polar bear to swim?",
+    "Polar bears are well-known for their ability to swim in icy waters. What area of the picture could offer a suitable environment for these animals to swim?",
+    "Which part of the picture might provide a suitable environment for a polar bear to swim, given their known ability to swim in icy waters?",
+    "Please indicate the part of the picture that could provide a suitable environment for a polar bear to swim, given their ability to swim in icy waters.",
+    "What can be identified within the picture that resembles a suitable setting for a polar bear to swim, given their ability to swim in icy waters?",
+    "Where in the picture would be a suitable environment for a polar bear to swim, given their ability to do so in icy waters?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3368817743_07da2550be_o.jpg",
+      "points": [
+        [
+          1022.0991735537191,
+          569.1322314049587
+        ],
+        [
+          1020.5769230769231,
+          544.3076923076923
+        ],
+        [
+          842.6923076923076,
+          563.5384615384615
+        ],
+        [
+          622.5,
+          591.4230769230769
+        ],
+        [
+          461.9230769230769,
+          622.1923076923076
+        ],
+        [
+          285.96153846153845,
+          655.8461538461538
+        ],
+        [
+          134.88372093023256,
+          691.0
+        ],
+        [
+          1023.0,
+          691.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "3368817743_07da2550be_o.jpg",
+      "points": [
+        [
+          46.333333333333314,
+          598.5151515151515
+        ],
+        [
+          0.0,
+          666.6969696969696
+        ],
+        [
+          3.909090909090878,
+          691.0
+        ],
+        [
+          126.63636363636363,
+          691.0
+        ],
+        [
+          264.5151515151515,
+          654.5757575757575
+        ],
+        [
+          447.84848484848476,
+          615.1818181818181
+        ],
+        [
+          605.4242424242423,
+          589.4242424242424
+        ],
+        [
+          728.151515151515,
+          571.2424242424242
+        ],
+        [
+          955.4242424242423,
+          548.5151515151515
+        ],
+        [
+          1017.5454545454545,
+          536.3939393939394
+        ],
+        [
+          1019.060606060606,
+          490.9393939393939
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

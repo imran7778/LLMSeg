@@ -1,0 +1,43 @@
+{
+  "text": [
+    "Weddings often have a special date that marks the start of a couple's new journey together. What in the picture could be a reminder of that date?",
+    "During weddings, couples usually select a special date that marks the start of their new journey together. What can serve as a reminder of that date in the picture?",
+    "During weddings, there\u00b4s often a specific date regarded as the beginning of the couple's shared life journey. In the given image, which item could serve as a reminder of that special date?",
+    "Weddings often have a special date that marks the beginning of a couple's new journey together. Please help me identify the item in the picture that could serve as a reminder of that date.",
+    "During a wedding ceremony, what object in the image might serve as a reminder of the date that marks the start of a couple's new journey together?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "6081580758_294858cd6c_o.jpg",
+      "points": [
+        [
+          1.0,
+          532.0
+        ],
+        [
+          0.0,
+          1034.0
+        ],
+        [
+          799.0,
+          1034.0
+        ],
+        [
+          798.0,
+          531.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

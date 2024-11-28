@@ -1,0 +1,259 @@
+{
+  "text": [
+    "In water skiing, the skier is pulled by a boat while wearing specific equipment for safety. What item in the picture can the skier hold onto to maintain balance and stability during water skiing?",
+    "What item can the skier hold onto to maintain balance and stability while water-skiing in the picture?",
+    "What could the skier hold onto in the picture to maintain balance and stability during water skiing, which involves being towed by a boat while wearing specific safety equipment?",
+    "During water skiing, the skier is equipped with specific gear to ensure safety while being towed by a boat. Which part of the equipment in this picture can the skier utilize to maintain balance and stability?",
+    "When water skiing, the skier is towed by a boat and typically wears specific safety gear. According to the picture, what object can the skier hold onto to maintain balance and stability during water skiing?",
+    "In water skiing, where a skier is pulled by a boat, the skier must wear specific equipment for safety. What item in the picture should the skier hold onto to sustain balance and stability while water skiing?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "17745536583_3b5acd606e_o.jpg",
+      "points": [
+        [
+          3944.9152542372885,
+          1326.271186440678
+        ],
+        [
+          4050.8474576271187,
+          1298.3050847457628
+        ],
+        [
+          4143.037974683544,
+          1250.632911392405
+        ],
+        [
+          4209.433962264151,
+          1224.0566037735848
+        ],
+        [
+          4225.943396226415,
+          1223.5849056603772
+        ],
+        [
+          4235.377358490566,
+          1223.1132075471698
+        ],
+        [
+          4250.471698113207,
+          1215.0943396226414
+        ],
+        [
+          4266.509433962264,
+          1214.6226415094338
+        ],
+        [
+          4279.7169811320755,
+          1207.0754716981132
+        ],
+        [
+          4285.8490566037735,
+          1200.0
+        ],
+        [
+          4287.735849056604,
+          1189.6226415094338
+        ],
+        [
+          4301.680672268908,
+          1174.3697478991596
+        ],
+        [
+          4307.983193277311,
+          1162.6050420168067
+        ],
+        [
+          4359.243697478992,
+          1121.8487394957983
+        ],
+        [
+          4518.90756302521,
+          1101.2605042016808
+        ],
+        [
+          4519.7478991596645,
+          1088.235294117647
+        ],
+        [
+          4513.0252100840335,
+          1077.731092436975
+        ],
+        [
+          4289.915966386555,
+          1106.7226890756303
+        ],
+        [
+          4109.243697478992,
+          1124.7899159663866
+        ],
+        [
+          4100.8403361344535,
+          1133.6134453781513
+        ],
+        [
+          4101.260504201681,
+          1144.5378151260504
+        ],
+        [
+          4276.470588235295,
+          1125.6302521008404
+        ],
+        [
+          4266.806722689076,
+          1134.453781512605
+        ],
+        [
+          4241.596638655463,
+          1144.9579831932774
+        ],
+        [
+          4236.55462184874,
+          1152.1008403361345
+        ],
+        [
+          4237.81512605042,
+          1160.9243697478992
+        ],
+        [
+          4234.033613445378,
+          1168.90756302521
+        ],
+        [
+          4228.151260504202,
+          1176.8907563025211
+        ],
+        [
+          4203.781512605042,
+          1189.4957983193278
+        ],
+        [
+          4185.2040816326535,
+          1184.6938775510205
+        ],
+        [
+          4172.448979591837,
+          1193.8775510204082
+        ],
+        [
+          4160.2040816326535,
+          1207.6530612244899
+        ],
+        [
+          4155.6122448979595,
+          1213.265306122449
+        ],
+        [
+          4137.244897959184,
+          1216.3265306122448
+        ],
+        [
+          4109.693877551021,
+          1233.1632653061224
+        ],
+        [
+          4068.9411764705883,
+          1250.1176470588234
+        ],
+        [
+          3996.787148594377,
+          1279.1164658634536
+        ],
+        [
+          3925.3846153846152,
+          1296.923076923077
+        ],
+        [
+          3696.153846153846,
+          1352.3076923076922
+        ],
+        [
+          3474.6153846153843,
+          1386.1538461538462
+        ],
+        [
+          3290.0,
+          1403.8461538461538
+        ],
+        [
+          3302.3076923076924,
+          1486.1538461538462
+        ],
+        [
+          3583.846153846154,
+          1426.923076923077
+        ],
+        [
+          3816.153846153846,
+          1368.4615384615383
+        ],
+        [
+          3923.846153846154,
+          1335.3846153846152
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    },
+    {
+      "label": "ignore",
+      "labels": [
+        "ignore"
+      ],
+      "shape_type": "polygon",
+      "image_name": "17745536583_3b5acd606e_o.jpg",
+      "points": [
+        [
+          2080.0,
+          1586.6666666666667
+        ],
+        [
+          2821.666666666667,
+          1558.3333333333335
+        ],
+        [
+          3202.5974025974024,
+          1529.8701298701299
+        ],
+        [
+          3295.4545454545455,
+          1506.8181818181818
+        ],
+        [
+          3283.076923076923,
+          1393.076923076923
+        ],
+        [
+          1955.0,
+          1393.3333333333335
+        ],
+        [
+          0.0,
+          1322.077922077922
+        ],
+        [
+          0.0,
+          1587.012987012987
+        ],
+        [
+          1448.780487804878,
+          1590.2439024390242
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}

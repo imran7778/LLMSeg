@@ -1,0 +1,96 @@
+{
+  "text": [
+    "In a classroom or office setting, it is common to write down important information or announcements for others to see. What tool in the picture can be used to write on a surface?",
+    "When creating visual aids for communication purposes in a classroom or office setting, it is common to write down critical information or announcements for others to see. What tool could be used to write on a surface, based on the picture?",
+    "When disseminating important information or announcements in a classroom or office setting, people often record it for others to view. What writing tool in the picture can be used to inscribe on a surface?",
+    "While in a classroom or office setting, written communications such as important notes or announcements are generally posted to enable others to review the detailed information. What object shown in the picture is utilized to write on a surface?",
+    "When it's important to share information or announcements with others in a classroom or office setting, one approach is to write them down so that they can be viewed. Based on this image, what tool could be used to write on a surface?",
+    "What instrument or tool, depicted in the picture, could be used to write on a surface in a classroom or office setting for the purpose of sharing essential information or announcements?"
+  ],
+  "is_sentence": true,
+  "shapes": [
+    {
+      "label": "target",
+      "labels": [
+        "target"
+      ],
+      "shape_type": "polygon",
+      "image_name": "75168905_51149480a5_o.jpg",
+      "points": [
+        [
+          541.0,
+          438.0
+        ],
+        [
+          540.0,
+          426.0
+        ],
+        [
+          449.0,
+          427.0
+        ],
+        [
+          418.0,
+          428.0
+        ],
+        [
+          416.12090680100755,
+          429.4710327455919
+        ],
+        [
+          362.0,
+          430.0
+        ],
+        [
+          357.0,
+          432.0
+        ],
+        [
+          357.0,
+          439.0
+        ],
+        [
+          358.0,
+          440.0
+        ],
+        [
+          359.0,
+          448.0
+        ],
+        [
+          374.0,
+          448.0
+        ],
+        [
+          465.0,
+          445.0
+        ],
+        [
+          466.0,
+          444.0
+        ],
+        [
+          481.0,
+          444.0
+        ],
+        [
+          483.0,
+          441.0
+        ],
+        [
+          511.0,
+          440.0
+        ],
+        [
+          539.0,
+          440.0
+        ]
+      ],
+      "group_id": null,
+      "group_ids": [
+        null
+      ],
+      "flags": {}
+    }
+  ]
+}
